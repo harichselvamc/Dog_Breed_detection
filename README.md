@@ -17,7 +17,7 @@ You can see a live demo of the app [here](https://dogbreeddetection.streamlit.ap
 
 ## Installation
 
-To run the Dog Breed Classification App locally, follow these steps:
+To run the Dog Breed Detection App locally, follow these steps:
 
 1. Clone this repository:
 
