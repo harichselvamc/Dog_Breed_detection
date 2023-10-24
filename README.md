@@ -67,6 +67,6 @@ To run the Dog Breed Classification App locally, follow these steps:
 
 
 # Model Details
-The Dog Breed Classification App uses a pre-trained machine learning model based on the InceptionV3 architecture. The model has been fine-tuned on a dataset of 70 different dog breeds.
+The Dog Breed Detection App uses a pre-trained machine learning model based on the InceptionV3 architecture. The model has been fine-tuned on a dataset of 70 different dog breeds.
 
    
