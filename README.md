@@ -27,7 +27,7 @@ To run the Dog Breed Classification App locally, follow these steps:
 2. Change the directory to the project folder:
 
    ```bash
-    cd dog-breed-classification-app
+    cd Dog_Breed_detection
    
 3. Install the required dependencies using pip:
 
