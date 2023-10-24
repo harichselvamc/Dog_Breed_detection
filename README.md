@@ -1,6 +1,6 @@
 # Dog Breed Classification App
 
-![Dog Breed Classification App](dogbreeddetection.streamlit.app)
+
 
 ## Introduction
 
