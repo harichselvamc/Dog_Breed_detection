@@ -1,4 +1,4 @@
-# Dog Breed Classification App
+# Dog Breed Detection App
 
 
 
