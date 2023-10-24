@@ -50,16 +50,16 @@ To run the Dog Breed Classification App locally, follow these steps:
 ### The model has been trained on a dataset organized in the following folder structure:
 
     
-        E:/project/pet_adoption_matching_algorithm/dataset/animal/dog
+        ./dog
         │
-        └── Breed1
-        │   ├── image1.jpg
-        │   ├── image2.jpg
+        └── Afghan
+        │   ├── 001.jpg
+        │   ├── 002.jpg
         │   ...
         │
-        └── Breed2
-        │   ├── image1.jpg
-        │   ├── image2.jpg
+        └── African Wild Dog
+        │   ├── 001.jpg
+        │   ├── 002.jpg
         │   ...
         ...
         
