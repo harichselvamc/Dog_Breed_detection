@@ -1,6 +1,6 @@
 # Dog Breed Classification App
 
-![Dog Breed Classification App](https://dogbreeddetection.streamlit.app/)
+![Dog Breed Classification App](dogbreeddetection.streamlit.app)
 
 ## Introduction
 
@@ -49,7 +49,7 @@ To run the Dog Breed Classification App locally, follow these steps:
 # Folder Structure
 ### The model has been trained on a dataset organized in the following folder structure:
 
-    ```bash
+    
         E:/project/pet_adoption_matching_algorithm/dataset/animal/dog
         │
         └── Breed1
