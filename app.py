@@ -90,7 +90,7 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
-st.title("Dog Breed Classification App")
+st.title("Dog Breed Detection App")
 
 # Upload an image for classification
 uploaded_image = st.file_uploader("Upload a dog image", type=["jpg", "png", "jpeg"])
