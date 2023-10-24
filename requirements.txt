@@ -1,0 +1,5 @@
+tensorflow
+streamlit
+Image
+matplotlib
+numpy
